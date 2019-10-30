@@ -6,9 +6,9 @@ This theme represents the opinionated and preferred starting point for the ShopB
 To use starter theme, you need to install the theme CLI
 
 ```bash
-npm install -g @sbase/theme-cli
+npm install -g @shopbase-test/cli
 # OR
-yarn global add @sbase/theme-cli
+yarn global add @shopbase-test/cli
 ```
 
 To verify that theme CLI has been installed, do:
